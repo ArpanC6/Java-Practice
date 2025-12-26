@@ -1,3 +1,5 @@
+// This program prints numbers from 1 to 5 using for loop
+
 public class ForLoopDemo {
     public static void main(String[] args) {
 
