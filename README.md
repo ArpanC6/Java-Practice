@@ -11,4 +11,5 @@ Daily Java practice programs to build strong core Java fundamentals.
 • Day 05: Palindrome, Factorial, Even-Odd programs  
 • Day 06: Array programs (max, min, reverse, sum, even-odd count)
 
-Consistent daily practice to become industry-ready Java developer.
+Practicing Java daily to build strong backend development skills.
+
