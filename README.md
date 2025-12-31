@@ -12,6 +12,8 @@ Daily Java practice programs to build strong core Java fundamentals.
 • Day 06: Array programs (max, min, reverse, sum, even-odd count)  
 • Day 07: String programs (reverse, palindrome, vowel count, word count)  
 • Day 08: Java Methods (return type, parameters, method calling)
+• Day 09: OOP basics – class, object, constructor, method calling
+
 
 Consistent daily Java practice to build strong backend development skills and become an industry-ready Java developer.
 
