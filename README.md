@@ -1,6 +1,6 @@
 # Java Practice
 
-This repository contains my **daily Java practice programs** organized day wise to improve my understanding of **Core Java concepts** through regular coding.
+This repository contains my daily Java practice programs, organized day-wise, to strengthen my understanding of Core Java concepts through consistent hands-on coding.
 
 ## Daily Practice Log
 
@@ -12,16 +12,16 @@ This repository contains my **daily Java practice programs** organized day wise 
 • Day 06: Array programs (max, min, reverse, sum, even-odd count)  
 • Day 07: String programs (reverse, palindrome, vowel count, word count)  
 • Day 08: Java methods (parameters, return type, method calling)  
-• Day 09: OOP basics (class, object, constructor, method calling)
-
+• Day 09: OOP basics (class, object, constructor, method calling)  
+• Day 10: Inheritance (single, multilevel), method overriding, super keyword  
 
 ## Purpose
 
-The main goal of this repository is to:
-- Practice Java **daily**
-- Improve problem solving skills
+The main goals of this repository are:
+- Practice Java programming daily
+- Improve logical thinking and problem-solving skills
 - Build strong fundamentals in Core Java
-- Maintain consistency in coding
+- Maintain consistency in coding and version control
 
 ## Tech Used
 
@@ -30,5 +30,5 @@ The main goal of this repository is to:
 
 ## Author
 
-Arpan Chakraborty  
+**Arpan Chakraborty**  
 GitHub: https://github.com/ArpanC6
