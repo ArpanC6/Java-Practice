@@ -40,4 +40,4 @@ The main goals of this repository are to:
 
 ## Note
 
-This repository reflects my daily learning journey. Each day focuses on strengthening one or more Java concepts with practical examples and problem-solving practice.
+This repository reflects my daily learning journey. Each day focuses on strengthening one or more Java concepts with practical examples and problem solving practice.
