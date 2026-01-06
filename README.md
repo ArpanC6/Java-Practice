@@ -1,6 +1,6 @@
 # Java Practice: Daily Java Learning
 
-This repository contains my daily Java practice programs organized day wise to strengthen my understanding of Core Java fundamentals through consistent hands on coding.
+This repository contains my daily Java practice programs, organized day-wise, to strengthen my understanding of Core Java fundamentals through consistent hands-on coding.
 
 
 ## Daily Practice Log
@@ -18,7 +18,8 @@ This repository contains my daily Java practice programs organized day wise to s
 - **Day 11:** Polymorphism (method overloading & method overriding)  
 - **Day 12:** Java arrays (declaration, initialization, traversal, basic operations)  
 - **Day 13:** Array problems (linear search, second largest element, frequency count, check sorted array, left rotation by one)  
-- **Day 14:** 2D array / matrix problems (matrix input-output, sum of elements, transpose, diagonal sum, search in matrix)
+- **Day 14:** 2D array / matrix problems (matrix input-output, sum of elements, transpose, diagonal sum, search in matrix)  
+- **Day 15:** String problems (reverse string, palindrome check, vowel-consonant count, remove spaces, word count)
 
 
 ## Purpose
