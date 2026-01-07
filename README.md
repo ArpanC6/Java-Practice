@@ -19,7 +19,8 @@ This repository contains my daily Java practice programs, organized day-wise, to
 - **Day 12:** Java arrays (declaration, initialization, traversal, basic operations)  
 - **Day 13:** Array problems (linear search, second largest element, frequency count, check sorted array, left rotation by one)  
 - **Day 14:** 2D array / matrix problems (matrix input-output, sum of elements, transpose, diagonal sum, search in matrix)  
-- **Day 15:** String problems (reverse string, palindrome check, vowel-consonant count, remove spaces, word count)
+- **Day 15:** String problems (reverse string, palindrome check, vowel-consonant count, remove spaces, word count)  
+- **Day 16:** StringBuilder & StringBuffer (reverse string, append/insert/delete operations, comparison with String)
 
 
 ## Purpose
