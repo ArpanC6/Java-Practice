@@ -21,7 +21,8 @@ This repository contains my daily Java practice programs, organized day-wise, to
 - **Day 14:** 2D array / matrix problems (matrix input-output, sum of elements, transpose, diagonal sum, search in matrix)  
 - **Day 15:** String problems (reverse string, palindrome check, vowel-consonant count, remove spaces, word count)  
 - **Day 16:** StringBuilder & StringBuffer (reverse string, append/insert/delete operations, comparison with String)  
-- **Day 17:** Exception handling (try-catch, multiple catch, finally block, throw keyword)
+- **Day 17:** Exception handling (try-catch, multiple catch, finally block, throw keyword)  
+- **Day 18:** Custom exception and throws keyword (user-defined exceptions, exception propagation)
 
 
 ## Purpose
@@ -39,3 +40,8 @@ The main goals of this repository are to:
 - Java (Core Java)  
 - VS Code / IntelliJ IDEA  
 - Git & GitHub  
+
+
+## Note
+
+This repository reflects my daily learning journey. Each day focuses on strengthening one or more Java concepts with practical examples and problem solving practice.
