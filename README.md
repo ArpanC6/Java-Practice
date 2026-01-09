@@ -22,7 +22,8 @@ This repository contains my daily Java practice programs, organized day-wise, to
 - **Day 15:** String problems (reverse string, palindrome check, vowel-consonant count, remove spaces, word count)  
 - **Day 16:** StringBuilder & StringBuffer (reverse string, append/insert/delete operations, comparison with String)  
 - **Day 17:** Exception handling (try-catch, multiple catch, finally block, throw keyword)  
-- **Day 18:** Custom exception and throws keyword (user-defined exceptions, exception propagation)
+- **Day 18:** Custom exception and throws keyword (user-defined exceptions, exception propagation)  
+- **Day 19:** File handling (create file, write file, read file, file information)
 
 
 ## Purpose
