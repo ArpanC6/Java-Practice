@@ -1,6 +1,6 @@
 # Java Practice: Daily Java Learning
 
-This repository contains my daily Java practice programs, organized day wise, to strengthen my understanding of Core Java fundamentals through consistent hands on coding.
+This repository contains my daily Java practice programs, organized day-wise, to strengthen my understanding of Core Java fundamentals through consistent hands-on coding.
 
 
 ## Daily Practice Log
@@ -25,7 +25,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 - **Day 18:** File handling basics (File class, FileReader, FileWriter)  
 - **Day 19:** Revision & mixed practice problems (arrays, strings, OOP concepts)  
 - **Day 20:** Collections framework (ArrayList, LinkedList, HashSet, HashMap basics)  
-- **Day 21:** Advanced Collections (sorting with Collections.sort, Comparable & Comparator, Iterator usage)
+- **Day 21:** Advanced Collections (sorting with Collections.sort, Comparable & Comparator, Iterator usage)  
+- **Day 22:** Generics (generic class, generic method, type safety, without generics problem)
 
 
 ## Purpose
@@ -48,4 +49,4 @@ The main goals of this repository are to:
 ## Note
 
 This repository reflects my daily learning journey.  
-Each day focuses on strengthening one or more Java concepts with practical examples and problem solving practice.
+Each day focuses on strengthening one or more Java concepts with practical examples and problem-solving practice.
