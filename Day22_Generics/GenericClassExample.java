@@ -1,15 +1,24 @@
-import java.util.ArrayList;
+class Box<T> {
+    T value;
 
-public class WithoutGenericsProblem {
+    void set(T value) {
+        this.value = value;
+    }
+
+    T get() {
+        return value;
+    }
+}
+
+public class GenericClassExample {
     public static void main(String[] args) {
 
-        ArrayList list = new ArrayList();
-        list.add(10);
-        list.add("Java");   // runtime problem
+        Box<Integer> intBox = new Box<>();
+        intBox.set(100);
+        System.out.println(intBox.get());
 
-        for (Object obj : list) {
-            Integer num = (Integer) obj; // ClassCastException
-            System.out.println(num);
-        }
+        Box<String> strBox = new Box<>();
+        strBox.set("Java Generics");
+        System.out.println(strBox.get());
     }
 }
