@@ -19,14 +19,15 @@ This repository contains my daily Java practice programs, organized day-wise, to
 - **Day 12:** Java arrays (declaration, initialization, traversal, basic operations)  
 - **Day 13:** Array problems (linear search, second largest element, frequency count, check sorted array, left rotation by one)  
 - **Day 14:** 2D array / matrix problems (matrix input-output, sum of elements, transpose, diagonal sum, search in matrix)  
-- **Day 15:** String problems (reverse string, palindrome check, vowel-consonant count, remove spaces, word count)  
-- **Day 16:** StringBuilder & StringBuffer (reverse string, append/insert/delete operations, comparison with String)  
-- **Day 17:** Exception handling (try-catch, multiple catch, finally, custom exception basics)  
-- **Day 18:** File handling basics (File class, FileReader, FileWriter)  
-- **Day 19:** Revision & mixed practice problems (arrays, strings, OOP concepts)  
-- **Day 20:** Collections framework (ArrayList, LinkedList, HashSet, HashMap basics)  
-- **Day 21:** Advanced Collections (sorting with Collections.sort, Comparable & Comparator, Iterator usage)  
-- **Day 22:** Generics (generic class, generic method, type safety, without generics problem)
+- **Day 15:** String problems (reverse string, palindrome check, vowel consonant count, remove spaces, word count)  
+- **Day 16:** StringBuilder & StringBuffer (reverse, append, insert, delete operations, comparison with String)  
+- **Day 17:** Wrapper classes & type conversion (autoboxing, unboxing, parsing)  
+- **Day 18:** Exception handling (try-catch, multiple catch, finally, custom exception)  
+- **Day 19:** File handling basics (File, FileReader, FileWriter, BufferedReader)  
+- **Day 20:** Java Collections Framework (ArrayList, LinkedList, basic operations)  
+- **Day 21:** Collections continuation (HashSet, TreeSet, HashMap, iteration)  
+- **Day 22:** Mini programs using collections (student record, frequency counter, menu-driven examples)  
+- **Day 23:** Practice based programs & revision (mixed problems from arrays, strings, OOP, collections)
 
 
 ## Purpose
