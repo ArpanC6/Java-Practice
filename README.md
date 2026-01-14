@@ -5,46 +5,47 @@ This repository contains my daily Java practice programs, organized day-wise, to
 
 ## Daily Practice Log
 
-- **Day 01:** Hello World program  
-- **Day 02:** Java data types and variables  
-- **Day 03:** If-else condition programs  
-- **Day 04:** For loop and multiplication table  
-- **Day 05:** Palindrome, factorial, even-odd programs  
-- **Day 06:** Array programs (max, min, reverse, sum, even-odd count)  
-- **Day 07:** String programs (reverse, palindrome, vowel count, word count)  
-- **Day 08:** Java methods (parameters, return type, method calling)  
-- **Day 09:** OOP basics (class, object, constructor, method calling)  
-- **Day 10:** Inheritance (single, multilevel), method overriding, super keyword  
-- **Day 11:** Polymorphism (method overloading & method overriding)  
-- **Day 12:** Java arrays (declaration, initialization, traversal, basic operations)  
-- **Day 13:** Array problems (linear search, second largest element, frequency count, check sorted array, left rotation by one)  
-- **Day 14:** 2D array / matrix problems (matrix input-output, sum of elements, transpose, diagonal sum, search in matrix)  
-- **Day 15:** String problems (reverse string, palindrome check, vowel consonant count, remove spaces, word count)  
-- **Day 16:** StringBuilder & StringBuffer (reverse, append, insert, delete operations, comparison with String)  
-- **Day 17:** Wrapper classes & type conversion (autoboxing, unboxing, parsing)  
-- **Day 18:** Exception handling (try-catch, multiple catch, finally, custom exception)  
-- **Day 19:** File handling basics (File, FileReader, FileWriter, BufferedReader)  
-- **Day 20:** Java Collections Framework (ArrayList, LinkedList, basic operations)  
-- **Day 21:** Collections continuation (HashSet, TreeSet, HashMap, iteration)  
-- **Day 22:** Mini programs using collections (student record, frequency counter, menu-driven examples)  
-- **Day 23:** Practice based programs & revision (mixed problems from arrays, strings, OOP, collections)
+1) **Day 01:** Hello World program  
+2) **Day 02:** Java data types and variables  
+3) **Day 03:** If-else condition programs  
+4) **Day 04:** For loop and multiplication table  
+5) **Day 05:** Palindrome, factorial, even-odd programs  
+6) **Day 06:** Array programs (max, min, reverse, sum, even-odd count)  
+7) **Day 07:** String programs (reverse, palindrome, vowel count, word count)  
+8) **Day 08:** Java methods (parameters, return type, method calling)  
+9) **Day 09:** OOP basics (class, object, constructor, method calling)  
+10) **Day 10:** Inheritance (single, multilevel), method overriding, super keyword  
+11) **Day 11:** Polymorphism (method overloading & method overriding)  
+12) **Day 12:** Java arrays (declaration, initialization, traversal, basic operations)  
+13) **Day 13:** Array problems (linear search, second largest element, frequency count, check sorted array, left rotation by one)  
+14) **Day 14:** 2D array / matrix problems (matrix input-output, sum of elements, transpose, diagonal sum, search in matrix)  
+15) **Day 15:** String problems (reverse string, palindrome check, vowel consonant count, remove spaces, word count)  
+16) **Day 16:** StringBuilder & StringBuffer (reverse, append, insert, delete operations, comparison with String)  
+17) **Day 17:** Wrapper classes & type conversion (autoboxing, unboxing, parsing)  
+18) **Day 18:** Exception handling (try-catch, multiple catch, finally, custom exception)  
+19) **Day 19:** File handling basics (File, FileReader, FileWriter, BufferedReader)  
+20) **Day 20:** Java Collections Framework (ArrayList, LinkedList, basic operations)  
+21) **Day 21:** Collections continuation (HashSet, TreeSet, HashMap, iteration)  
+22) **Day 22:** Mini programs using collections (student record, frequency counter, menu-driven examples)  
+23) **Day 23:** Practice based programs & revision (mixed problems from arrays, strings, OOP, collections)  
+24) **Day 24:** Collections sorting & utilities (Collections.sort, Comparable, Comparator, custom object sorting)
 
 
 ## Purpose
 
 The main goals of this repository are to:
 
-- Practice Java programming daily  
-- Improve logical thinking and problem-solving skills  
-- Build strong fundamentals in Core Java  
-- Maintain consistency and discipline in coding  
+1) Practice Java programming daily  
+2) Improve logical thinking and problem-solving skills  
+3) Build strong fundamentals in Core Java  
+4) Maintain consistency and discipline in coding  
 
 
 ## Technologies Used
 
-- Java (Core Java)  
-- VS Code / IntelliJ IDEA  
-- Git & GitHub  
+1) Java (Core Java)  
+2) VS Code / IntelliJ IDEA  
+3) Git & GitHub  
 
 
 ## Note
