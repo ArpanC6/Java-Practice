@@ -1,6 +1,6 @@
 # Java Practice: Daily Java Learning
 
-This repository contains my daily Java practice programs, organized day-wise, to strengthen my understanding of Core Java fundamentals through consistent hands on coding.
+This repository contains my daily Java practice programs, organized day wise, to strengthen my understanding of Core Java fundamentals through consistent hands on coding.
 
 
 ## Daily Practice Log
