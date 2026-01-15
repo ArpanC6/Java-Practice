@@ -28,7 +28,8 @@ This repository contains my daily Java practice programs, organized day-wise, to
 21) **Day 21:** Collections continuation (HashSet, TreeSet, HashMap, iteration)  
 22) **Day 22:** Mini programs using collections (student record, frequency counter, menu-driven examples)  
 23) **Day 23:** Practice based programs & revision (mixed problems from arrays, strings, OOP, collections)  
-24) **Day 24:** Collections sorting & utilities (Collections.sort, Comparable, Comparator, custom object sorting)
+24) **Day 24:** Collections sorting & utilities (Collections.sort, Comparable, Comparator, custom object sorting)  
+25) **Day 25:** Iterators (Iterator, ListIterator), fail-fast behavior & safe modification
 
 
 ## Purpose
