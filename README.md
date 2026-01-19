@@ -32,7 +32,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 25) **Day 25:** Iterators (Iterator, ListIterator), fail-fast behavior & safe modification  
 26) **Day 26:** Java 8 features (Lambda Expression, Functional Interface, Stream API – filter, map, reduce)  
 27) **Day 27:** Multithreading basics (Thread class, Runnable interface, thread lifecycle, sleep & join)  
-28) **Day 28:** Multithreading synchronization (race condition, synchronized method & synchronized block)
+28) **Day 28:** Multithreading synchronization (race condition, synchronized method & synchronized block)  
+29) **Day 29:** Inter-thread communication (wait, notify, notifyAll methods)
 
 
 ## Purpose
