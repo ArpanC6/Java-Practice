@@ -29,11 +29,12 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 22:** Mini programs using collections (student record, frequency counter, menu-driven examples)  
 **Day 23:** Practice based programs & revision (mixed problems from arrays, strings, OOP, collections)  
 **Day 24:** Collections sorting & utilities (Collections.sort, Comparable, Comparator, custom object sorting)  
-**Day 25:** Iterators (Iterator, ListIterator), fail-fast behavior & safe modification  
+**Day 25:** Iterators (Iterator, ListIterator), fail-fast behavior & safe modification)  
 **Day 26:** Java 8 features (Lambda Expression, Functional Interface, Stream API – filter, map, reduce)  
 **Day 27:** Multithreading basics (Thread class, Runnable interface, thread lifecycle, sleep & join)  
 **Day 28:** Multithreading synchronization (race condition, synchronized method & synchronized block)  
-**Day 29:** Inter thread communication (wait, notify, notifyAll methods)
+**Day 29:** Inter thread communication (wait, notify, notifyAll methods)  
+**Day 30:** JDBC basics (Java-MySQL connection, CRUD operations using PreparedStatement)
 
 
 ## Purpose
