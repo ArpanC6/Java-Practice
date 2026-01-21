@@ -34,7 +34,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 27:** Multithreading basics (Thread class, Runnable interface, thread lifecycle, sleep & join)  
 **Day 28:** Multithreading synchronization (race condition, synchronized method & synchronized block)  
 **Day 29:** Inter thread communication (wait, notify, notifyAll methods)  
-**Day 30:** JDBC basics (Java-MySQL connection, CRUD operations using PreparedStatement)
+**Day 30:** JDBC basics (Java-MySQL connection, CRUD operations using PreparedStatement)  
+**Day 31:** JDBC mini project (Student Management System console based CRUD using DAO & PreparedStatement)
 
 
 ## Purpose
