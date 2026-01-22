@@ -35,7 +35,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 28:** Multithreading synchronization (race condition, synchronized method & synchronized block)  
 **Day 29:** Inter thread communication (wait, notify, notifyAll methods)  
 **Day 30:** JDBC basics (Java-MySQL connection, CRUD operations using PreparedStatement)  
-**Day 31:** JDBC mini project (Student Management System console based CRUD using DAO & PreparedStatement)
+**Day 31:** JDBC mini project (Student Management System – console based CRUD using DAO & PreparedStatement)  
+**Day 32:** Maven basics & Spring Boot introduction (project structure, annotations, first REST API)
 
 
 ## Purpose
@@ -51,8 +52,10 @@ The main goals of this repository are to:
 ## Technologies Used
 
 1) Java (Core Java)  
-2) VS Code / IntelliJ IDEA  
-3) Git & GitHub  
+2) Maven  
+3) Spring Boot  
+4) VS Code / IntelliJ IDEA  
+5) Git & GitHub  
 
 
 ## Note
