@@ -38,7 +38,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 31:** JDBC mini project (Student Management System – console based CRUD using DAO & PreparedStatement)  
 **Day 32:** Maven basics & Spring Boot introduction (project structure, annotations, first REST API)  
 **Day 33:** Spring Boot with JDBC & MySQL (database integration, JdbcTemplate, REST API to fetch data)  
-**Day 34:** Spring Boot CRUD REST API (GET, POST, PUT, DELETE) with global exception handling
+**Day 34:** Spring Boot CRUD REST API (GET, POST, PUT, DELETE) with global exception handling  
+**Day 35:** Spring Boot + JPA + Hibernate (ORM mapping, Entity, Repository, CRUD REST API)
 
 
 ## Purpose
@@ -56,9 +57,11 @@ The main goals of this repository are to:
 1) Java (Core Java)  
 2) Maven  
 3) Spring Boot  
-4) MySQL  
-5) VS Code / IntelliJ IDEA  
-6) Git & GitHub  
+4) Spring Data JPA  
+5) Hibernate  
+6) MySQL  
+7) VS Code / IntelliJ IDEA  
+8) Git & GitHub  
 
 
 ## Note
