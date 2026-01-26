@@ -39,7 +39,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 32:** Maven basics & Spring Boot introduction (project structure, annotations, first REST API)  
 **Day 33:** Spring Boot with JDBC & MySQL (database integration, JdbcTemplate, REST API to fetch data)  
 **Day 34:** Spring Boot CRUD REST API (GET, POST, PUT, DELETE) with global exception handling  
-**Day 35:** Spring Boot + JPA + Hibernate (ORM mapping, Entity, Repository, CRUD REST API)
+**Day 35:** Spring Boot + JPA + Hibernate (ORM mapping, Entity, Repository, CRUD REST API)  
+**Day 36:** Spring Boot JPA Relationships (OneToMany, ManyToOne, cascading, lazy vs eager fetching)
 
 
 ## Purpose
