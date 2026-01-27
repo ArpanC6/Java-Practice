@@ -1,0 +1,6 @@
+@PostMapping("/students")
+public Student add(@Valid @RequestBody StudentDTO dto) {
+    Student s = new Student();
+    s.setName(dto.getName());
+    return repo.save(s);
+}
