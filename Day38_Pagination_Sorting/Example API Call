@@ -1,0 +1,1 @@
+GET /students?page=0&size=10&sortBy=name&direction=desc
