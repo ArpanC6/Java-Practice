@@ -41,7 +41,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 34:** Spring Boot CRUD REST API (GET, POST, PUT, DELETE) with global exception handling  
 **Day 35:** Spring Boot + JPA + Hibernate (ORM mapping, Entity, Repository, CRUD REST API)  
 **Day 36:** Spring Boot JPA Relationships (OneToMany, ManyToOne, cascading, lazy vs eager fetching)  
-**Day 37:** DTO, validation & clean API design (Bean Validation, request/response separation)
+**Day 37:** DTO, validation & clean API design (Bean Validation, request/response separation)  
+**Day 38:** Pagination & Sorting (Spring Data JPA, PageRequest, Sort)
 
 
 ## Purpose
