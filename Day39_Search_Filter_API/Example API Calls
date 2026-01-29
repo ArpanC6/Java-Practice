@@ -1,0 +1,3 @@
+GET /students/search?keyword=ar
+GET /students/filter?age=20
+GET /students/advanced-search?name=ar&age=18
