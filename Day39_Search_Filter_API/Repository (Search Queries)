@@ -1,0 +1,9 @@
+public interface StudentRepository extends JpaRepository<Student, Integer> {
+
+    List<Student> findByNameContainingIgnoreCase(String keyword);
+
+    List<Student> findByAgeGreaterThan(int age);
+
+    @Query("SELECT s FROM Student s WHERE s.name LIKE %:name% AND s.age >= :age")
+    List<Student> search(@Param("name") String name, @Param("age") int age);
+}
