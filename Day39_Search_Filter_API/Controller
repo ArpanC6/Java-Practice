@@ -1,0 +1,17 @@
+@GetMapping("/students/search")
+public List<Student> searchByName(@RequestParam String keyword) {
+    return repo.findByNameContainingIgnoreCase(keyword);
+}
+
+@GetMapping("/students/filter")
+public List<Student> filterByAge(@RequestParam int age) {
+    return repo.findByAgeGreaterThan(age);
+}
+
+@GetMapping("/students/advanced-search")
+public List<Student> advancedSearch(
+        @RequestParam String name,
+        @RequestParam int age) {
+
+    return repo.search(name, age);
+}
