@@ -1,0 +1,2 @@
+POST   /students
+GET    /students/search?name=ar
