@@ -43,7 +43,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 36:** Spring Boot JPA Relationships (OneToMany, ManyToOne, cascading, lazy vs eager fetching)  
 **Day 37:** DTO, validation & clean API design (Bean Validation, request/response separation)  
 **Day 38:** Pagination & Sorting (Spring Data JPA, PageRequest, Sort)  
-**Day 39:** Search & Filter API (custom queries, keyword search, conditional fetching)
+**Day 39:** Search & Filter API (custom queries, keyword search, conditional fetching)  
+**Day 40:** Spring Boot Mini Project – Student Management System (CRUD, DTO, validation, pagination, search)
 
 
 ## Purpose
@@ -53,7 +54,8 @@ The main goals of this repository are to:
 1) Practice Java programming daily  
 2) Improve logical thinking and problem-solving skills  
 3) Build strong fundamentals in Core Java  
-4) Maintain consistency and discipline in coding  
+4) Build real-world backend projects  
+5) Maintain consistency and discipline in coding  
 
 
 ## Technologies Used
