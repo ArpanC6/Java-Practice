@@ -44,7 +44,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 37:** DTO, validation & clean API design (Bean Validation, request/response separation)  
 **Day 38:** Pagination & Sorting (Spring Data JPA, PageRequest, Sort)  
 **Day 39:** Search & Filter API (custom queries, keyword search, conditional fetching)  
-**Day 40:** Spring Boot Mini Project – Student Management System (CRUD, DTO, validation, pagination, search)
+**Day 40:** Spring Boot Mini Project – Student Management System (CRUD, DTO, validation, pagination, search)  
+**Day 41:** Spring Security + JWT Authentication (login, token generation, secured REST APIs)
 
 
 ## Purpose
@@ -65,9 +66,11 @@ The main goals of this repository are to:
 3) Spring Boot  
 4) Spring Data JPA  
 5) Hibernate  
-6) MySQL  
-7) VS Code / IntelliJ IDEA  
-8) Git & GitHub  
+6) Spring Security  
+7) JWT  
+8) MySQL  
+9) VS Code / IntelliJ IDEA  
+10) Git & GitHub  
 
 
 ## Note
