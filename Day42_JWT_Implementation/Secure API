@@ -1,0 +1,2 @@
+GET /students
+Authorization: Bearer <JWT_TOKEN>
