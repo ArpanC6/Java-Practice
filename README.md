@@ -46,7 +46,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 39:** Search & Filter API (custom queries, keyword search, conditional fetching)  
 **Day 40:** Spring Boot Mini Project – Student Management System (CRUD, DTO, validation, pagination, search)  
 **Day 41:** Spring Security + JWT Authentication (login, token generation, secured REST APIs)  
-**Day 42:** JWT implementation (JwtUtil, JWT filter, token validation, secured REST APIs)
+**Day 42:** JWT implementation (JwtUtil, JWT filter, token validation, secured REST APIs)  
+**Day 43:** Role-based authorization (ADMIN / USER) using Spring Security + JWT
 
 
 ## Purpose
