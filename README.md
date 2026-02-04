@@ -48,7 +48,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 41:** Spring Security + JWT Authentication (login, token generation, secured REST APIs)  
 **Day 42:** JWT implementation (JwtUtil, JWT filter, token validation, secured REST APIs)  
 **Day 43:** Role-based authorization (ADMIN / USER) using Spring Security + JWT  
-**Day 44:** JWT Refresh Token implementation (access token renewal, secure logout, token lifecycle handling)
+**Day 44:** JWT Refresh Token implementation (access token renewal, secure logout, token lifecycle handling)  
+**Day 45:** Global exception handling & custom error response (ControllerAdvice, custom exceptions, JWT error handling)
 
 
 ## Purpose
