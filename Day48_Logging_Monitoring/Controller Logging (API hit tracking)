@@ -1,0 +1,13 @@
+@RestController
+@RequestMapping("/api/students")
+public class StudentController {
+
+    private static final Logger logger =
+            LoggerFactory.getLogger(StudentController.class);
+
+    @GetMapping
+    public List<String> getAllStudents() {
+        logger.info("GET /api/students called");
+        return List.of("Rahul", "Amit", "Sneha");
+    }
+}
