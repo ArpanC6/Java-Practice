@@ -51,7 +51,8 @@ This repository contains my daily Java practice programs, organized day wise, to
 **Day 44:** JWT Refresh Token implementation (access token renewal, secure logout, token lifecycle handling)  
 **Day 45:** Global exception handling & custom error response (ControllerAdvice, custom exceptions, JWT error handling)  
 **Day 46:** API documentation using Swagger / OpenAPI (springdoc-openapi, Swagger UI, secured API testing)  
-**Day 47:** API versioning & REST best practices (URL versioning, backward compatibility, DTO usage, industry standard API design)
+**Day 47:** API versioning & REST best practices (URL versioning, backward compatibility, DTO usage, industry standard API design)  
+**Day 48:** Logging, monitoring & API auditing (SLF4J, Logback, log levels, request-response logging, exception logging, Spring Boot Actuator health monitoring)
 
 
 ## Purpose
@@ -82,4 +83,4 @@ The main goals of this repository are to:
 ## Note
 
 This repository reflects my daily learning journey.  
-Each day focuses on strengthening one or more Java concepts with practical examples and problem-solving practice.
+Each day focuses on strengthening one or more Java concepts with practical examples an
