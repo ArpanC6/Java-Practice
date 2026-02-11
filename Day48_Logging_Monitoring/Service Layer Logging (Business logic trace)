@@ -1,0 +1,17 @@
+@Service
+public class StudentService {
+
+    private static final Logger logger =
+            LoggerFactory.getLogger(StudentService.class);
+
+    public String getStudentById(int id) {
+        logger.debug("Fetching student with id {}", id);
+
+        if (id <= 0) {
+            logger.error("Invalid student id: {}", id);
+            throw new IllegalArgumentException("Invalid ID");
+        }
+
+        return "Student_" + id;
+    }
+}
