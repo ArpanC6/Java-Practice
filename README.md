@@ -62,6 +62,12 @@ This repository contains my daily Java practice programs, organized day-wise, to
 &nbsp;&nbsp;&nbsp;&nbsp;• Rate limiting (Bucket4j)  
 &nbsp;&nbsp;&nbsp;&nbsp;• Security headers (XSS, Clickjacking protection)  
 &nbsp;&nbsp;&nbsp;&nbsp;• Production-ready Spring Boot REST API security  
+**Day 50:** Application Bootstrap & Deployment Readiness  
+&nbsp;&nbsp;&nbsp;&nbsp;• Spring Boot main application class  
+&nbsp;&nbsp;&nbsp;&nbsp;• @SpringBootApplication annotation  
+&nbsp;&nbsp;&nbsp;&nbsp;• Application startup flow  
+&nbsp;&nbsp;&nbsp;&nbsp;• Jar packaging & deployment basics  
+&nbsp;&nbsp;&nbsp;&nbsp;• Production-ready project structure  
 
 
 
@@ -99,4 +105,4 @@ The main goals of this repository are to:
 
 This repository reflects my daily learning journey as a Java Backend Developer.  
 Each day focuses on one or more important concepts with practical implementation, following industry best practices.  
-The later days emphasize **real-world, production-ready backend development** including security, documentation, and scalability.
+The later days emphasize **real-world, production-ready backend development** including security, documentation, scalability, and deployment readiness.
