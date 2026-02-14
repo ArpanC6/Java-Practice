@@ -68,6 +68,11 @@ This repository contains my daily Java practice programs, organized day-wise, to
 &nbsp;&nbsp;&nbsp;&nbsp;• Application startup flow  
 &nbsp;&nbsp;&nbsp;&nbsp;• Jar packaging & deployment basics  
 &nbsp;&nbsp;&nbsp;&nbsp;• Production-ready project structure  
+**Day 51:** Spring Boot Actuator & Monitoring  
+&nbsp;&nbsp;&nbsp;&nbsp;• Actuator endpoints (health, info, metrics)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Custom HealthIndicator implementation  
+&nbsp;&nbsp;&nbsp;&nbsp;• Application monitoring & observability basics  
+&nbsp;&nbsp;&nbsp;&nbsp;• Production readiness using Actuator  
 
 
 
