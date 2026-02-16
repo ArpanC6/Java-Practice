@@ -57,7 +57,8 @@ Day 48: Logging and Monitoring (SLF4J, Logback, centralized logging, best practi
 Day 49: API Security Hardening including CORS configuration, rate limiting, security headers and production-ready API security  
 Day 50: Application Bootstrap and Deployment Readiness (Spring Boot main class, startup flow, jar packaging, production-ready structure)  
 Day 51: Spring Boot Actuator and Monitoring (health, info, metrics, custom HealthIndicator, observability, production readiness)  
-Day 52: Docker and Containerization for Spring Boot (Dockerfile, image creation, containerized Spring Boot application, deployment basics)
+Day 52: Docker and Containerization for Spring Boot (Dockerfile, image creation, containerized Spring Boot application, deployment basics)  
+Day 53: Docker Compose with Spring Boot and MySQL (multi-container setup, service orchestration, environment configuration, production-style backend deployment)
 
 
 
@@ -80,6 +81,7 @@ MySQL
 Swagger and OpenAPI  
 SLF4J and Logback  
 Docker  
+Docker Compose  
 VS Code or IntelliJ IDEA  
 Git and GitHub  
 
