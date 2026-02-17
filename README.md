@@ -2,8 +2,6 @@
 
 This repository contains my daily Java practice programs, organized day-wise, to strengthen my understanding of Core Java fundamentals and modern backend development through consistent hands-on coding.
 
-
-
 ## Daily Practice Log
 
 Day 01: Hello World program  
@@ -58,15 +56,12 @@ Day 49: API Security Hardening including CORS configuration, rate limiting, secu
 Day 50: Application Bootstrap and Deployment Readiness (Spring Boot main class, startup flow, jar packaging, production-ready structure)  
 Day 51: Spring Boot Actuator and Monitoring (health, info, metrics, custom HealthIndicator, observability, production readiness)  
 Day 52: Docker and Containerization for Spring Boot (Dockerfile, image creation, containerized Spring Boot application, deployment basics)  
-Day 53: Docker Compose with Spring Boot and MySQL (multi-container setup, service orchestration, environment configuration, production-style backend deployment)
-
-
+Day 53: Docker Compose with Spring Boot and MySQL (multi-container setup, service orchestration, environment configuration, production-style backend deployment)  
+Day 54: CI/CD with GitHub Actions (automated build pipeline, Maven build, continuous integration, production-ready development workflow)
 
 ## Purpose
 
 The main goals of this repository are to practice Java programming daily, improve logical thinking and problem-solving skills, build strong fundamentals in Core Java, gain real-world backend development experience, build production-ready REST APIs using Spring Boot, and maintain consistency and discipline in coding.
-
-
 
 ## Technologies Used
 
@@ -82,13 +77,12 @@ Swagger and OpenAPI
 SLF4J and Logback  
 Docker  
 Docker Compose  
+GitHub Actions  
 VS Code or IntelliJ IDEA  
 Git and GitHub  
-
-
 
 ## Note
 
 This repository reflects my daily learning journey as a Java Backend Developer.  
 Each day focuses on important concepts with hands-on implementation following industry best practices.  
-Later days emphasize real-world production-ready backend development including security, monitoring, documentation, scalability, containerization, and deployment readiness.
+Later days emphasize real-world production-ready backend development including security, monitoring, documentation, scalability, containerization, CI/CD, and deployment readiness.
