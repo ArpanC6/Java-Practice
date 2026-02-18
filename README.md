@@ -57,7 +57,8 @@ Day 50: Application Bootstrap and Deployment Readiness (Spring Boot main class, 
 Day 51: Spring Boot Actuator and Monitoring (health, info, metrics, custom HealthIndicator, observability, production readiness)  
 Day 52: Docker and Containerization for Spring Boot (Dockerfile, image creation, containerized Spring Boot application, deployment basics)  
 Day 53: Docker Compose with Spring Boot and MySQL (multi-container setup, service orchestration, environment configuration, production-style backend deployment)  
-Day 54: CI/CD with GitHub Actions (automated build pipeline, Maven build, continuous integration, production-ready development workflow)
+Day 54: CI/CD with GitHub Actions (automated build pipeline, Maven build, continuous integration, production-ready development workflow)  
+Day 55: Cloud Deployment of Spring Boot Application (deployment on cloud platform, environment variables, production configuration, cloud-ready backend setup)
 
 ## Purpose
 
