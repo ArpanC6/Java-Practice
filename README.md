@@ -58,7 +58,8 @@ Day 51: Spring Boot Actuator and Monitoring (health, info, metrics, custom Healt
 Day 52: Docker and Containerization for Spring Boot (Dockerfile, image creation, containerized Spring Boot application, deployment basics)  
 Day 53: Docker Compose with Spring Boot and MySQL (multi-container setup, service orchestration, environment configuration, production-style backend deployment)  
 Day 54: CI/CD with GitHub Actions (automated build pipeline, Maven build, continuous integration, production-ready development workflow)  
-Day 55: Cloud Deployment of Spring Boot Application (deployment on cloud platform, environment variables, production configuration, cloud-ready backend setup)
+Day 55: Cloud Deployment of Spring Boot Application (deployment on cloud platform, environment variables, production configuration, cloud-ready backend setup)  
+Day 56: Kubernetes Basics and Spring Boot Deployment (Kubernetes architecture, deployment, service, scaling, production-style container orchestration)
 
 ## Purpose
 
@@ -79,6 +80,7 @@ SLF4J and Logback
 Docker  
 Docker Compose  
 GitHub Actions  
+Kubernetes  
 VS Code or IntelliJ IDEA  
 Git and GitHub  
 
@@ -86,4 +88,4 @@ Git and GitHub
 
 This repository reflects my daily learning journey as a Java Backend Developer.  
 Each day focuses on important concepts with hands-on implementation following industry best practices.  
-Later days emphasize real-world production-ready backend development including security, monitoring, documentation, scalability, containerization, CI/CD, and deployment readiness.
+Later days emphasize real-world production-ready backend development including security, monitoring, documentation, scalability, containerization, CI/CD, cloud deployment, and Kubernetes orchestration.
