@@ -59,7 +59,8 @@ Day 52: Docker and Containerization for Spring Boot (Dockerfile, image creation,
 Day 53: Docker Compose with Spring Boot and MySQL (multi-container setup, service orchestration, environment configuration, production-style backend deployment)  
 Day 54: CI/CD with GitHub Actions (automated build pipeline, Maven build, continuous integration, production-ready development workflow)  
 Day 55: Cloud Deployment of Spring Boot Application (deployment on cloud platform, environment variables, production configuration, cloud-ready backend setup)  
-Day 56: Kubernetes Basics and Spring Boot Deployment (Kubernetes architecture, deployment, service, scaling, production-style container orchestration)
+Day 56: Kubernetes Basics and Spring Boot Deployment (Kubernetes architecture, deployment, service, scaling, production-style container orchestration)  
+Day 57: Kubernetes ConfigMap and Secrets with Spring Boot (externalized configuration, secure secrets management, environment-based configuration, production-ready Kubernetes setup)
 
 ## Purpose
 
